@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ym529700260/java8:1.0
+ym529700260/java8
+ym529700260/zookeeper3.6.3
