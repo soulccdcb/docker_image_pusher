@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-python
-rabbitmq
+ym529700260/java8:1.0
