@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-tdengine/tdengine:3.1.1.0
+tdengine/tdengine
