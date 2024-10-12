@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-ym529700260/mysqlarm
+biarms/mysql:5.7.30
