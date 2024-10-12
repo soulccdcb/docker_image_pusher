@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-louislam/uptime-kuma:1.23.13
+ym529700260/mysqlarm
