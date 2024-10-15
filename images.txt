@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-bitnami/mysql:5.7.43
+daocloud.io/library/mysql:5.7.44
