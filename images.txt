@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-daocloud.io/library/mysql:5.7.44
+mysql:5.7.44
